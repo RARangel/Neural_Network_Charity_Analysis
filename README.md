@@ -26,7 +26,7 @@ The objective is to create a binary classifier that is capable of predicting whe
 
 ### Code
 
-AlphabetSoupCharity.ipynb (code)[AlphabetSoupCharity.ipynb]
+AlphabetSoupCharity.ipynb [code](AlphabetSoupCharity.ipynb)
 
 ## Results
 
