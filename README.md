@@ -32,19 +32,20 @@ AlphabetSoupCharity- Optimization.ipynb [code](AlphabetSoupCharity- Optimization
 
 ## Results
 
-Data Preprocessing
+### Data Preprocessing
 - Target variable(s) for the model:
 - Feature variable(s) for the model:
 - Variable(s) that are neither targets nor features, and should be removed from the input data:
 
-Compiling, Training, and Evaluating the Model
-Number of neurons:
-Number of layers
-Number of activation functions
+### Compiling, Training, and Evaluating the Model
+- Number of neurons:
+- Number of layers
+- Number of activation functions
 
-and why?
+- why?
 
 Were you able to achieve the target model performance?
+
 What steps did you take to try and increase model performance?
 
 ### Summary
