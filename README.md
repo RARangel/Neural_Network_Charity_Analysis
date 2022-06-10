@@ -44,7 +44,7 @@ The objective is to create a binary classifier that is capable of predicting whe
 - Were you able to achieve the target model performance?
 - What steps did you take to try and increase model performance?
 
-### Summary
+## Summary
 
 - Summarize the overall results of the deep learning model. 
 - Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
