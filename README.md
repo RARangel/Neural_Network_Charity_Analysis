@@ -47,6 +47,16 @@ The objective is to create a binary classifier that is capable of predicting whe
 ## Summary
 
 - Summarize the overall results of the deep learning model. 
-- Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+
+- Model 1 accuracy
+
+![Model1_accuarcy](https://user-images.githubusercontent.com/98564776/172979907-fe9e8139-bc95-494b-8740-8a9b2d8ff1c6.PNG)
+
+- Random Forest Model Accuracy
+
+![Random_Forest_Model_accuracy](https://user-images.githubusercontent.com/98564776/172979969-7eb25857-c6d8-4118-8f69-3b0b08892a7d.PNG)
+
+
+Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 
 
