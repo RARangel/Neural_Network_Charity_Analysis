@@ -26,9 +26,8 @@ The objective is to create a binary classifier that is capable of predicting whe
 
 ### Code
 
-AlphabetSoupCharity.ipynb [code](AlphabetSoupCharity.ipynb)
-
-AlphabetSoupCharity- Optimization.ipynb [code](AlphabetSoupCharity- Optimization.ipynb)
+- AlphabetSoupCharity.ipynb [code](AlphabetSoupCharity.ipynb)
+- AlphabetSoupCharity- Optimization.ipynb [code](AlphabetSoupCharity- Optimization.ipynb)
 
 ## Results
 
@@ -41,17 +40,13 @@ AlphabetSoupCharity- Optimization.ipynb [code](AlphabetSoupCharity- Optimization
 - Number of neurons:
 - Number of layers
 - Number of activation functions
-
 - why?
-
-Were you able to achieve the target model performance?
-
-What steps did you take to try and increase model performance?
+- Were you able to achieve the target model performance?
+- What steps did you take to try and increase model performance?
 
 ### Summary
 
-Summarize the overall results of the deep learning model. 
-
-Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+- Summarize the overall results of the deep learning model. 
+- Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 
 
