@@ -32,12 +32,12 @@ The objective is to create a binary classifier that is capable of predicting whe
 ## Results
 
 ### Data Preprocessing
-- Target variable(s) for the model:
-- Feature variable(s) for the model:
-- Variable(s) that are neither targets nor features, and should be removed from the input data:
+- Target variable(s) for the model:  IS_SUCCESSFUL
+- Feature variable(s) for the model: APPLICATION_TYPE, CLASSIFICATION,  USE_CASE, INCOME_AMT, ASK_AMT
+- Variable(s) that are neither targets nor features, and should be removed from the input data: EIN, NAME, 
 
 ### Compiling, Training, and Evaluating the Model
-- Number of neurons:
+- Number of neurons: 
 - Number of layers
 - Number of activation functions
 - why?
