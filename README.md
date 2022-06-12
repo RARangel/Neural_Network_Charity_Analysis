@@ -45,7 +45,7 @@ The objective is to create a binary classifier that is capable of predicting whe
 
 ## Summary
 
-- Summary of overall results of the deep learning model. 
+Summary of overall results of the deep learning model: 
 
 - Model 1 accuracy
 
