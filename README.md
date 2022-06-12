@@ -33,7 +33,7 @@ The objective is to create a binary classifier that is capable of predicting whe
 
 ### Data Preprocessing
 - Target variable(s) for the model:  IS_SUCCESSFUL
-- Feature variable(s) for the model: APPLICATION_TYPE, CLASSIFICATION,  USE_CASE, INCOME_AMT, ASK_AMT
+- Feature variable(s) for the model: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, INCOME_AMT, SPECIAL_CONSIDERATIONS
 - Variable(s) that are neither targets nor features, and should be removed from the input data: EIN, NAME, 
 
 ### Compiling, Training, and Evaluating the Model
