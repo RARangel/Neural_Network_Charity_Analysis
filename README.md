@@ -40,12 +40,12 @@ The objective is to create a binary classifier that is capable of predicting whe
 - Number of neurons: first layer 120, second layer 30, thrid layer 10
 - Number of layers: 3
 - Number of activation functions: first layer : relu, second layer: sigmoid, third layer: sigmoid, output layer: sigmoid
-- Were you able to achieve the target model performance?  Target model performance achieved 79%
+- Were you able to achieve the target model performance?  Target model performance achieved 79.5%
 - What steps did you take to try and increase model performance?  Increase layers, add NAME back into machine learning algorithm
 
 ## Summary
 
-- Summarize the overall results of the deep learning model. 
+- Summary of overall results of the deep learning model. 
 
 - Model 1 accuracy
 
@@ -56,6 +56,5 @@ The objective is to create a binary classifier that is capable of predicting whe
 ![Random_Forest_Model_accuracy](https://user-images.githubusercontent.com/98564776/172979969-7eb25857-c6d8-4118-8f69-3b0b08892a7d.PNG)
 
 
-Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
-
+The Random Forest Model can solve the objective in this scenario. It runs efficiently on large data samples and can rank important variables successfully to optimize performance. 
 
