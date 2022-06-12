@@ -37,9 +37,9 @@ The objective is to create a binary classifier that is capable of predicting whe
 - Variable(s) that are neither targets nor features, and should be removed from the input data: EIN, NAME, 
 
 ### Compiling, Training, and Evaluating the Model
-- Number of neurons: 
-- Number of layers
-- Number of activation functions
+- Number of neurons: first layer 120, second layer 30, thrid layer 10
+- Number of layers: 3
+- Number of activation functions: 
 - why?
 - Were you able to achieve the target model performance?
 - What steps did you take to try and increase model performance?
