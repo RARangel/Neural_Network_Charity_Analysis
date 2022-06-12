@@ -37,7 +37,7 @@ The objective is to create a binary classifier that is capable of predicting whe
 - Variable(s) that are neither targets nor features, and should be removed from the input data: EIN, NAME, 
 
 ### Compiling, Training, and Evaluating the Model
-- Number of neurons: first layer 120, second layer 30, thrid layer 10
+- Number of neurons: first layer 120, second layer 30, third layer 10
 - Number of layers: 3
 - Number of activation functions: first layer : relu, second layer: sigmoid, third layer: sigmoid, output layer: sigmoid
 - Were you able to achieve the target model performance?  Target model performance achieved 79.5%
